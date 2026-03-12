@@ -9,7 +9,7 @@
 This project was built from scratch focusing on clean architecture, semantic markup, and zero reliance on external CSS/JS frameworks. It acts as a core piece of my frontend portfolio, demonstrating the ability to craft highly immersive, nostalgic UI/UX experiences for international and remote web environments.
 
 ## 🔮 Preview
-<img width="3840" height="2064" alt="Screenshot from 2026-03-12 02-21-56" src="https://github.com/user-attachments/assets/31f0674b-6803-47fc-834c-dfa6f6f36071" />
+<img width="3840" height="2064" alt="Screenshot from 2026-03-12 02-21-56" src="https://github.com/user-attachments/assets/a5270e05-628d-41e7-b1ab-a57e00e339dc" />
 
 ---
 
@@ -28,19 +28,22 @@ This project was built from scratch focusing on clean architecture, semantic mar
 Since this project uses pure Vanilla web technologies, no build tools or package managers (like npm) are required. 
 
 1. Clone the repository into your local environment:
-   ```bash
-   git clone [https://github.com/YOUR_USERNAME/the-violet-archive.git](https://github.com/YOUR_USERNAME/the-violet-archive.git)
+```bash
+git clone [https://github.com/nickomega84/the-violet-archive.git](https://github.com/nickomega84/the-violet-archive.git)
+```
 
+2. Navigate to your project directory:
+```bash
+cd "C:/Documents/Web Projects/"
+```
 
-2. Navigate to your project directory (adjust the path if necessary):
-    Bash
+3. Open `index.html` in your preferred modern web browser.
 
-    cd C:/Documents/"Web Projects"/
+---
 
-3. Open index.html in your preferred modern web browser.
+## 📜 Project Structure
 
-📜 Project Structure
-
+```text
 /
 ├── assets/
 │   └── fonts/             # Local typography (.ttf, .otf)
@@ -48,9 +51,12 @@ Since this project uses pure Vanilla web technologies, no build tools or package
 ├── style.css              # Styling, variables, and animations
 ├── app.js                 # DOM manipulation and event listeners
 └── README.md              # Project documentation
+```
 
-⚖️ Disclaimer & Copyright
+---
 
-This is a personal portfolio project and a fan tribute. All lyrics, music, and official videos referenced in the "The Birthday Massacre" section belong to the band and Metropolis Records. No copyright infringement is intended.
+## ⚖️ Disclaimer & Copyright
 
-Transmitting from the shadows. © 2026 The Violet Archive.
+This is a personal portfolio project and a fan tribute. All lyrics, music, and official videos referenced in the "The Birthday Massacre" section belong to the band and Metropolis Records. No copyright infringement is intended. 
+
+*Transmitting from the shadows. © 2026 The Violet Archive.*
