@@ -8,8 +8,8 @@
 
 This project was built from scratch focusing on clean architecture, semantic markup, and zero reliance on external CSS/JS frameworks. It acts as a core piece of my frontend portfolio, demonstrating the ability to craft highly immersive, nostalgic UI/UX experiences for international and remote web environments.
 
-## 🔮 Live Preview
-*(Insert your GitHub Pages or live hosting link here)*
+## 🔮 Preview
+<img width="3840" height="2064" alt="Screenshot from 2026-03-12 02-21-56" src="https://github.com/user-attachments/assets/31f0674b-6803-47fc-834c-dfa6f6f36071" />
 
 ---
 
