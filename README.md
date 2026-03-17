@@ -29,7 +29,7 @@ Since this project uses pure Vanilla web technologies, no build tools or package
 
 1. Clone the repository into your local environment:
 ```bash
-git clone [https://github.com/nickomega84/the-violet-archive.git](https://github.com/nickomega84/the-violet-archive.git)
+git clone https://github.com/nickomega84/the-violet-archive.git
 ```
 
 2. Navigate to your project directory:
